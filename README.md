@@ -79,16 +79,9 @@ Slicers allow users to dynamically explore data by:
 
 ---
 
-## 📁 Project Files
-| File | Description |
-|------|--------------|
-| `Ecommerce dashboard excel binary.xlsb` | Cleaned and final Excel dashboard (binary format for better performance) |
-| `dashboard1.png` | Dashboard screenshot |
-| `README.md` | Project documentation |
-
----
 
 ## 👩‍💻 Author
-**Hana Wael**  
+**Hana Elkholy**  
 Data Analyst | Excel • Tableau • SQL • Python  
+
 
